@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/src">
+        <file>logo1.jpg</file>
+        <file>cross.png</file>
+        <file>logo_CSEC.jpg</file>
+        <file>logo.jpg</file>
+    </qresource>
+</RCC>

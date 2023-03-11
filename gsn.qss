@@ -1,0 +1,251 @@
+MagnetMenu{
+	color: rgb(0,0,0);
+	background-color:qlineargradient(stop:0 rgb(186,237,254),stop:1 rgb(121,220,253));
+}
+SreachMode{
+	color: rgb(0,0,0);
+	background-color:qlineargradient(stop:0 rgb(186,237,254),stop:1 rgb(121,220,253));
+}
+SimpleMenu{
+	color: rgb(0,0,0);
+	background-color:qlineargradient(stop:0 rgb(186,237,254),stop:1 rgb(121,220,253));
+}
+SimpleMode{
+	color: rgb(0,0,0);
+	background-color:qlineargradient(stop:0 rgb(186,237,254),stop:1 rgb(121,220,253));
+}
+MappedMenu{
+	color: rgb(0,0,0);
+	background-color:qlineargradient(stop:0 rgb(186,237,254),stop:1 rgb(121,220,253));
+}
+MappedMode{
+	color: rgb(0,0,0);
+	background-color:qlineargradient(stop:0 rgb(186,237,254),stop:1 rgb(121,220,253));
+}
+MappedMenu{
+	color: rgb(0,0,0);
+	background-color:qlineargradient(stop:0 rgb(186,237,254),stop:1 rgb(121,220,253));
+}
+DataTransferMenu{
+	color: rgb(0,0,0);
+	background-color:qlineargradient(stop:0 rgb(186,237,254),stop:1 rgb(121,220,253));
+}
+ManualTransferMenu{
+	color: rgb(0,0,0);
+	background-color:qlineargradient(stop:0 rgb(186,237,254),stop:1 rgb(121,220,253));
+}
+EraseDataMenu{
+	color: rgb(0,0,0);
+	background-color:qlineargradient(stop:0 rgb(186,237,254),stop:1 rgb(121,220,253));
+}
+
+
+QPushButton#ohmButton {
+	outline: none;
+}
+
+QPushButton#ohmButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));
+}
+
+QPushButton#magnetButton {
+	outline:none;
+}
+
+QPushButton#magnetButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);	
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));
+}
+
+QPushButton#selftestButton {
+	outline:none;
+}
+
+QPushButton#selftestButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));	
+}
+
+QPushButton#sreachButton{
+	outline:none;	
+}
+
+QPushButton#sreachButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));		
+}
+
+QPushButton#simpleButton{
+	outline:none;	
+}
+
+QPushButton#simpleButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));		
+}
+
+QPushButton#mappedButton{
+	outline:none;	
+}
+
+QPushButton#mappedButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));		
+}
+
+QPushButton#baseButton{
+	outline:none;	
+}
+
+QPushButton#baseButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));		
+}
+
+QPushButton#reviewButton{
+	outline:none;	
+}
+
+QPushButton#reviewButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));		
+}
+
+QPushButton#transferButton{
+	outline:none;	
+}
+
+QPushButton#transferButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));		
+}
+
+QPushButton#setupButton{
+	outline:none;	
+}
+
+QPushButton#setupButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));		
+}
+
+QPushButton#pcTransferButton{
+	outline:none;	
+}
+
+QPushButton#pcTransferButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));		
+}
+
+QPushButton#manualTransferButton{
+	outline:none;	
+}
+
+QPushButton#manualTransferButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));		
+}
+
+QPushButton#eraseButton{
+	outline:none;	
+}
+
+QPushButton#eraseButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));		
+}
+
+QPushButton#formatButton{
+	outline:none;	
+}
+
+QPushButton#formatButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));		
+}
+
+QPushButton#sendButton{
+	outline:none;	
+}
+
+QPushButton#sendButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));	
+}
+
+ScrollNumLabel{
+	outline:none;
+	
+}
+
+ScrollNumLabel:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);	
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));	
+}
+
+QPushButton#receiveButton{
+	outline:none;	
+}
+
+QPushButton#receiveButton:focus{
+	border:2px solid ;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));		
+}
+
+QPushButton#deleteButton{
+	outline:none;
+}
+
+QPushButton#deleteButton:focus{
+	border:2px solid;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));
+}
+
+QPushButton#startButton{
+	outline:none;
+}
+
+QPushButton#startButton:focus{
+	border:2px solid;
+	border-color:black;
+	color:rgb(255,255,255);
+	background-color:qlineargradient(x1:0,y1:0,x2:0,y2:1,stop:0 rgb(70,70,70),stop:1 rgb(110,110,110));
+}
